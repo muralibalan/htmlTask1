@@ -1,0 +1,266 @@
+.condainer{
+    width: 45%;
+    height: 800px;
+    border: 0.5px solid black;
+    padding: 10px;
+    position: relative;
+    top: 0px;
+    left: 350px;
+}
+.important::after{
+    content: "*";
+    color: red;
+}
+.last{
+    position: relative;
+    top: 0px;
+    left: 160px;
+}
+.emailinput{
+    width: 380px;
+}
+
+/* star rating in css */
+.rating {
+    display: flex;
+}
+
+.rating input {
+    display: none;
+}
+.rating label::before {
+    content: "\2605";
+    font-size: 30px;
+    color: transparent;
+    background: linear-gradient(90deg, #FFD700 0%, #FFD700 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+        /* star rating css end */
+
+#rateText{
+    font-size: 10px;
+}
+.titleSatis{
+    font-size: 10px;
+}
+.ti1{
+    padding-left: 190px;
+}
+.ti2{
+    padding-left: 35px;
+}
+.ti3{
+    padding-left: 35px;
+}
+.ti4{
+    padding-left: 35px;
+}
+.ti5{
+    padding-left: 35px;
+}
+.border1,.border3{
+    background-color: rgb(230, 228, 223);
+    width: 99%;
+    height: 30px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.purchase{
+    padding-left: 10px;
+}
+
+.firRed1{
+    position: relative;
+    top: 0px;
+    left: 150px;
+}
+.firRed2{
+    position: relative;
+    top: 0px;
+    left: 220px;
+}
+.firRed3{
+    position: relative;
+    top: 0px;
+    left: 280px;
+}
+.firRed4{
+    position: relative;
+    top: 0px;
+    left: 340px;
+}
+.firRed5{
+    position: relative;
+    top: 0px;
+    left: 410px;
+}
+.service{
+    padding-left: 10px;
+}
+
+.secRed1{
+    position: relative;
+    top: 0px;
+    left: 163.5px;
+}
+.secRed2{
+    position: relative;
+    top: 0px;
+    left: 234px;
+}
+.secRed3{
+    position: relative;
+    top: 0px;
+    left: 294px;
+}
+.secRed4{
+    position: relative;
+    top: 0px;
+    left: 354px;
+}
+.secRed5{
+    position: relative;
+    top: 0px;
+    left: 424px;
+}
+
+.companyOverall{
+    padding-left: 10px;
+}
+
+.thRed1{
+    position: relative;
+    top: 0px;
+    left: 91px;
+}
+.thRed2{
+    position: relative;
+    top: 0px;
+    left: 162px;
+}
+.thRed3{
+    position: relative;
+    top: 0px;
+    left: 222px;
+}
+.thRed4{
+    position: relative;
+    top: 0px;
+    left: 282px;
+}
+.thRed5{
+    position: relative;
+    top: 0px;
+    left: 352px;
+}
+
+.titlelike{
+    font-size: 10px;
+}
+.ti01{
+    padding-left: 200px;
+}
+.ti02{
+    padding-left: 40px;
+}
+.ti03{
+    padding-left: 47px;
+}
+.ti04{
+    padding-left: 45px;
+}
+.ti05{
+    padding-left: 50px;
+}
+
+.fouRed1{
+    position: relative;
+    top: 0px;
+    left: 86px;
+}
+.fouRed2{
+    position: relative;
+    top: 0px;
+    left: 156px;
+}
+.fouRed3{
+    position: relative;
+    top: 0px;
+    left: 219px;
+}
+.fouRed4{
+    position: relative;
+    top: 0px;
+    left: 277px;
+}
+.fouRed5{
+    position: relative;
+    top: 0px;
+    left: 347px;
+}
+
+.fiRed1{
+    position: relative;
+    top: -10px;
+    left: 98px;
+}
+.fiRed2{
+    position: relative;
+    top: -10px;
+    left: 168px;
+}
+.fiRed3{
+    position: relative;
+    top: -10px;
+    left: 231px;
+}
+.fiRed4{
+    position: relative;
+    top: -10px;
+    left: 289px;
+}
+.fiRed5{
+    position: relative;
+    top: -10px;
+    left: 359px;
+}
+
+.border6{
+    background-color: rgb(230, 228, 223);
+    width: 99%;
+    height: 55px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.siRed1{
+    position: relative;
+    top: -10px;
+    left: 81px;
+}
+.siRed2{
+    position: relative;
+    top: -10px;
+    left: 152px;
+}
+.siRed3{
+    position: relative;
+    top: -10px;
+    left: 215px;
+}
+.siRed4{
+    position: relative;
+    top: -10px;
+    left: 274px;
+}
+.siRed5{
+    position: relative;
+    top: -10px;
+    left: 343px;
+}
+.textArea{
+    width: 99%;
+    height: 100px;
+}
+
